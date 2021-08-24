@@ -135,7 +135,7 @@
           }),
         });
       }
-      var i = s.p + "static/media/dd.fa0bc2fd.png";
+      var i = s.p + "./static/media/dd.fa0bc2fd.png";
       function o() {
         return Object(r.jsxs)("div", {
           className: "mainContainer m-auto my-2",
