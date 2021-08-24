@@ -12,8 +12,8 @@
     "index.html": "/index.html",
     "static/css/main.bed9bef2.chunk.css.map": "/static/css/main.bed9bef2.chunk.css.map",
     "static/js/2.89173a4d.chunk.js.LICENSE.txt": "/static/js/2.89173a4d.chunk.js.LICENSE.txt",
-    "static/media/index.scss": "/static/media/background.8767277a.jpeg",
-    "static/media/dd.fa0bc2fd.png": "/static/media/dd.fa0bc2fd.png"
+    "static/media/index.scss": "./static/media/background.8767277a.jpeg",
+    "static/media/dd.fa0bc2fd.png": "./static/media/dd.fa0bc2fd.png"
   },
   "entrypoints": [
     "static/js/runtime-main.4bbf142e.js",
